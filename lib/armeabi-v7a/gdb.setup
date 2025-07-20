@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory /sysroot/usr/include /home/jenkins/android-dev//android-ndk-r12b/sources/android/native_app_glue /home/jenkins/android-dev//android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9.x/include /home/jenkins/workspace/Android-ARM  /home/jenkins/workspace/Android-ARM/build/install/include jni
