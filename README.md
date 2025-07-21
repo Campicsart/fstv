@@ -1,4 +1,7 @@
 # fstv
 A fast scan tv application.
 
-(still adding files, there was an upload error. might be because there are well over 9000 files).
+To compile install apache: https://cordova.apache.org/
+                  Node.js: https://nodejs.org/en
+                      NPM: https://nodei.co/#cordova-ios
+                      
